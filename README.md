@@ -1,2 +1,2 @@
-# 2018-02-eval-ANN
-Evaluación redes neuronales semestre 2018-02
+# Trabajo Final
+Evaluación redes neuronales semestre 2019-02 Universidad Nacional de Colombia
